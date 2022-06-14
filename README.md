@@ -1,2 +1,2 @@
-# tui-commander
-Text User Interface Commander  is a visual text base environment manager
+# TUI-Commander
+TUI-Commander is a text based machine manager
